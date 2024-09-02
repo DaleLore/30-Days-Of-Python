@@ -29,3 +29,6 @@ Option 2: python3 --version
     - Dictionary    (i.e. {'language':'Python'})
     - Tuple         (i.e. {9.8, 3.14, 2.7})
     - Set           (i.e. (9.8, 3.14, 2.7))
+
+
+[Day 1](./01_Day_Introduction/01_Day_introduction.md)
