@@ -1,4 +1,5 @@
 # 30 Days of Python
+Committing to the [30 Days of Python challenge]((https://github.com/Asabeneh/30-Days-Of-Python)).
 
 During this challenge, I will be learning everything needed to be a python programmer and the whole concept of programming. In the end of the challenge, I will get a 30DaysOfPython programming challenge certificate.
 
