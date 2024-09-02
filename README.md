@@ -17,6 +17,9 @@ Option 2: python3 --version
     - exit()
     - type()
     - print()
+    - Ctrl + l to clear
+    - help('keywords')
+    - dir(any_of_the_keywords) <!-- gives information about the keyword -->
 
 - Python Data Types
     - Number 
@@ -30,5 +33,18 @@ Option 2: python3 --version
     - Tuple         (i.e. {9.8, 3.14, 2.7})
     - Set           (i.e. (9.8, 3.14, 2.7))
 
+- Built in functions
+    - [Python Documentation](https://docs.python.org/3.9/library/functions.html) 
+    - Top 3 that I want to figure out and use
+        1. hash()
+        2. ascii()
+        3. memoryview()
+
+
+    
+    
+
 
 [Day 1](./01_Day_Introduction/01_Day_introduction.md)
+
+[Day 2](./02_variables_builtin_functions/02_variables_builtin_functions.md)
