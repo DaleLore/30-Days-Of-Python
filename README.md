@@ -3,6 +3,8 @@ Committing to the [30 Days of Python challenge]((https://github.com/Asabeneh/30-
 
 During this challenge, I will be learning everything needed to be a python programmer and the whole concept of programming. In the end of the challenge, I will get a 30DaysOfPython programming challenge certificate.
 
+I'll also be sharing my reflections and summaries on my Substack where I share my technical writing: [DataLore](https://datalore.substack.com/)
+
 ## Environment Setup
 - [Install Python](https://www.python.org/downloads/)
 
@@ -40,11 +42,3 @@ Option 2: python3 --version
         2. ascii()
         3. memoryview()
 
-
-    
-    
-
-
-[Day 1](./01_Day_Introduction/01_Day_introduction.md)
-
-[Day 2](./02_variables_builtin_functions/02_variables_builtin_functions.md)
