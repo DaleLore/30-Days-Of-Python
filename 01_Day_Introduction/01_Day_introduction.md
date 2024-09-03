@@ -18,4 +18,5 @@
 
 [Blog Post: Day 01](https://datalore.substack.com/p/day-01-introduction?r=8fi6d)
 
-[Day 2](./02_variables_builtin_functions/02_variables_builtin_functions.md)
+[Day 2](../02_variables_builtin_functions/02_variables_builtin_functions.md)
+
