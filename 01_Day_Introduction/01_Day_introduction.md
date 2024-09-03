@@ -16,4 +16,4 @@
     - Points p2=[x2,y2]
     - Formula: d = √(x2-x1)² + (y2 - y1)
 
-[Day 2](./02_variables_builtin_functions/02_variables_builtin_functions.md)
+[Day 2](../02_variables_builtin_functions/02_variables_builtin_functions.md)
