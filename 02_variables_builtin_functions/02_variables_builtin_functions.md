@@ -2,20 +2,11 @@
 
 # Exercises - Day 2
 ## Exercises: Level 1
+- Create a file called, variables.py
+- Declare and assign values
 
-
-
-
-
-
-
-
-
-
-
-
-# Notes
-## Built In Functions
+## Exercises: Level 2
+### Built In Functions
 - print('Hellow World!')
 - len('Hellow World!')
 - type('Hellow World!')
@@ -25,6 +16,7 @@
 - input('Enter your name: ')
 - Python has got reserved words
 
+# Notes
 ## Variables
 - Variables store data in a computer memory
 - Mnemonic variables are variable names that can be easily remmebered and associated
@@ -55,3 +47,6 @@ person_info = {
 
 - Casting is converting oen data type to another data type
     - We use int(), float(), str(), list, set
+
+
+ [<< Day 1](../01_Day_Introduction/01_Day_introduction.md) | [Day 3 >>](../03_operators/03_operators.md)  
