@@ -165,7 +165,7 @@ print(doesnt_exit)
                 num1.extend(num2)
                 print('Numbers:', num1)
 
-### Coutning Items in a List
+### Counting Items in a List
 - Count items with count() to return the number of times an item appears in a list
     - Syntax: lst.count(item)
     - Example:  ages = [22, 19, 24, 25, 26, 24, 25, 24]
