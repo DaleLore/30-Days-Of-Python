@@ -1,6 +1,6 @@
-# Exercises - Day 1
-[Blog Post: Day 01](https://datalore.substack.com/p/day-01-introduction?r=8fi6d)
+# [Blog Post: Day 01](https://datalore.substack.com/p/day-01-introduction?r=8fi6d)
 
+# Exercises - Day 1
 ## Exercise: Level 1
 1. Check the python version you are using
 2. Open the python interactive shell and do the following operations. The operands are 3 and 4.

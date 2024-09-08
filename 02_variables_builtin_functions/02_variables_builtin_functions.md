@@ -1,4 +1,5 @@
 <!-- Day 2: 30 Days of python programming -->
+# [Blog Post: Day 02](https://datalore.substack.com/p/day-02-variables-and-built-in-functions)
 
 # Exercises - Day 2
 ## Exercises: Level 1
