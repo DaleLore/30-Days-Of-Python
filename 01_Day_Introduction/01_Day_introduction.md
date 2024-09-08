@@ -22,6 +22,7 @@
 
 [<< 30 Days of Python](../README.md) | [Day 2 >>](../02_variables_builtin_functions/02_variables_builtin_functions.md)
 
+
 # Notes
 ## Basic Python
 ### Python Syntax
