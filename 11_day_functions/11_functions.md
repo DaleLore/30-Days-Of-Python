@@ -117,6 +117,17 @@ function_name(arg)
 ## Function as a Parameter of Another Function
 - You can pass functions as arguments to other functions.
 
+```
+def square_number (n):
+    return n * n
+
+def pass_the_function(f, x):
+    return f(x)
+
+print(pass_the_function(square_number, 3))
+
+```
+
 ## Passing Arguments with Key and Value
 - If we pass the arguments with a key and value, the order of the arguments does not matter
 
