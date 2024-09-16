@@ -16,8 +16,3 @@ print(now)
 #     - Time series analysis
 #     - To get a timestamp of any activities in an application
 #     - Adding posts on a blog
-
-
-### Note
-### Naming the file datetime.py confused Python. `This is being imported instead of the standard library module, because the directory of the main script is the first place Python looks for imports.`
-### Resource https://stackoverflow.com/questions/15975517/cant-import-import-datetime-in-script
