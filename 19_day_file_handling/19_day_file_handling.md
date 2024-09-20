@@ -98,9 +98,10 @@ print(most_populated_countries(filename='./data/countries_data.json', 3))
 
 # Notes - File Handling
 - File handling is an import part of programming which allows us to create, read, update, and delete files
-- An important built-in function to handle data is `open()`
 
-    - Opening Files for Reading
+## Opening Files for Reading
+- `open()`
+    - The default mode for `open()` is reading o adding `r` isn't necessary a lot of the times
         - Syntax: open('filename', mode)
         - Mode options
             - `r` - Read - default value - this opens a file for reading, it returns an error if the file does not exist
@@ -110,12 +111,49 @@ print(most_populated_countries(filename='./data/countries_data.json', 3))
             - `t` - Text - Default value - text mode
             - `b` - Binary - binary mode (e.g. images)
     
-    - Opening Files for Writing and Updating
-        - The default mode of open is reading so adding `r` isn't necessary a lot of the times
+- `read()`
+    - This is to read the wholet ext as a string
+    - If we want to limit the number of characters we want to read, we can limit by passing int value to the read(number) method
+        - Syntax: 
+            - You must open() file first
+            - read() | read(#)
+    
+- `readline()`
+    - Read only the first line
+        - Syntax: 
+            - You must open() file first
+            - readline()
 
-    - Deleting Files
+- `readlines()`
+    - Read all the text line by line and returns a list of lines
+        - Syntax: 
+            - You must open() file first
+            - readlines()  
 
-- File Types
+- `splitlines()`
+    - Another way to get all the lines as a list
+        - Syntax: 
+            - You must open() file first
+            - read().splitlines()
+
+- `close()`
+    - After we open a file, we should close it
+    - You can use `close()` but there is a new way of opening files using <i>with</i> which closes the files by itself
+    ```
+    with open('./files/reading_file_example.txt') as f:
+        lines = f.read().splitlines()
+        print(type(lines))
+        print(lines)
+    ```
+
+## Opening Files for Reading
+- 
+
+## Opening Files for Writing and Updating
+
+## Deleting Files
+
+## File Types
     - File with txt extension
     - File with json Extension
     - Changing JSON to dictionary
