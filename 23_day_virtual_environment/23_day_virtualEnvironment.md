@@ -1,6 +1,7 @@
 <!-- Day 23: 30 Days of python programming -->
 
 # Exercises - Day 23
+1. Create a project directory with a virtual environment based on the example given above.
 
 # Notes - Virtual Environments
 - A virtual environment in Python is an isolated environment that allows you to manage dependencies for different projects separately, without interfering with each other
