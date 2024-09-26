@@ -15,3 +15,12 @@
     - imputation
 
 ## Installing Pandas
+- Conda is 
+```
+pip install conda
+conda install pandas
+```
+
+- Pandas data structure is based on <i>Series</i> and <i>DataFrames</i>
+- A series ia column and a DataFrame is a multidimensional table made up of collection of series
+- In order to create a pandas series, we should use NumPy to create a one dimensional array or python list
